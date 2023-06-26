@@ -13,7 +13,8 @@
 
 - 📫 How to reach me **khushp98765@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1HAf7IwAsfwU2NoZUDCphYbkDj4dY-tSfZ30Ro49IPXE/edit?usp=sharing](https://docs.google.com/document/d/1HAf7IwAsfwU2NoZUDCphYbkDj4dY-tSfZ30Ro49IPXE/edit?usp=sharing)
+- 📄 Know about my experiences <a href="https://docs.google.com/document/d/1HAf7IwAsfwU2NoZUDCphYbkDj4dY-tSfZ30Ro49IPXE/edit?usp=sharing" alt="Resume - Khush Patel's Experiences and Qualifications">Resume</a>
+
 
 - ⚡ My hobbies are **Hiking, Cycling, Hiking**
 
