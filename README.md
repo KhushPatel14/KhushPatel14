@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, MERN, JavaScript, Next.js, BootStrap**
 
-- 📫 How to reach me **khushp98765@gmail.com**
+- 📫 How to reach me **khush.patell@outlook.com**
 
 - 📄 Know about my experiences <a href="https://docs.google.com/document/d/1HAf7IwAsfwU2NoZUDCphYbkDj4dY-tSfZ30Ro49IPXE/edit?usp=sharing" alt="Resume - Khush Patel's Experiences and Qualifications">Resume</a>
 
