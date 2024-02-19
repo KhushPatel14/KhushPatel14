@@ -16,7 +16,7 @@
 - 📄 Know about my experiences <a href="https://docs.google.com/document/d/1HAf7IwAsfwU2NoZUDCphYbkDj4dY-tSfZ30Ro49IPXE/edit?usp=sharing" alt="Resume - Khush Patel's Experiences and Qualifications">Resume</a>
 
 
-- ⚡ My hobbies are **Hiking, Cycling, Hiking**
+- ⚡ My hobbies are **Hiking, Cycling, Cricket**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
